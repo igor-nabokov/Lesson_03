@@ -27,3 +27,11 @@
 .col_center {
 	margin: 0 102px;
 }
+
+.cell {
+	cursor: pointer;
+}
+
+.cell:hover {
+	background-color: #eee;
+}
